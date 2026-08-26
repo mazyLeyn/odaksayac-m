@@ -24,16 +24,3 @@ Sade, minimalist ve doğrudan odaklanmanızı sağlayan tarayıcı tabanlı diji
 
 Uygulamayı hemen kullanmak için:
 👉 **[mazyleyn.github.io/odaksayacim](https://mazyleyn.github.io/odaksayacim/)**
-
-## Yerel Çalıştırma
-
-Projeyi kendi bilgisayarınızda çalıştırmak için:
-
-```bash
-# Depoyu klonlayın
-git clone [https://github.com/mazyLeyn/odaksayacim.git](https://github.com/mazyLeyn/odaksayacim.git)
-
-# Proje dizinine gidin
-cd odaksayacim
-
-# index.html dosyasını tarayıcınızda açın
